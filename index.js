@@ -1,4 +1,4 @@
-from app import cool
+import { cool } from "./app.js";
 
 let i = 0;
 for (i = 0; i < 20; i++)
